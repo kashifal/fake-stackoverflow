@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import Model from "../model.js";
-import { m } from "./fakestackoverflow.jsx";
+import { m } from "./fakestackoverflow";
 import React, { useState } from "react";
 // import QuestionForm from './QuestionForm.js';
 
